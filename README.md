@@ -1,7 +1,5 @@
 # sales-intelligence
 
-#### dev branch  
-
 major project  
 - Anuj Asati - 0201CS191017 
 - Parth Vedant Mishra - 0201CS191061  
