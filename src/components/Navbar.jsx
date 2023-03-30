@@ -4,7 +4,8 @@ import { BiSearch } from "react-icons/bi";
 import { AiOutlineCalendar } from "react-icons/ai";
 import { AiOutlineBell } from "react-icons/ai";
 import { AiOutlineCaretDown } from "react-icons/ai";
-import avatarImage from "../assets/avatar.jpeg"
+import avatarImage from "../assets/avatar.jpeg";
+
 function Navbar() {
     return (
         <Nav>

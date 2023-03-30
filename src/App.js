@@ -1,18 +1,19 @@
 import React from "react";
 import styled from "styled-components";
 import Sidebar from "./components/Sidebar"
-import Dashboard from "./components/Dashboard"
+import  Router  from "./router/Router";
 
 function App() {
   return (
     <Div>
       <Sidebar/>
-      <Dashboard/>
+      <Router />
     </Div>
   );
 }
 
 export default App;
 const Div = styled.div `
-position: relative;
+display: flex;
+flex-direction: column;
 `
